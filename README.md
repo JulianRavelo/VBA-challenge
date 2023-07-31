@@ -1,5 +1,5 @@
 # VBA-challenge
-The spreadsheet has 1 button called Create summary. It will create the summary table and bnus table for each sheet of the book.
+The spreadsheet has 1 button called Create summary. It will create the summary table and bonus table for each sheet of the book.
 ## Screenshots
 ### 2018
 ![image](https://github.com/JulianRavelo/VBA-challenge/assets/132871396/c79b75cb-68ab-40d5-99ef-03fc03b634b3)
